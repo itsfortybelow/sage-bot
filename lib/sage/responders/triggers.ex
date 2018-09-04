@@ -24,7 +24,7 @@ defmodule Sage.Responders.Triggers do
     "no" => "Noooo! https://www.youtube.com/watch?v=umDr0mPuyQc",
     "nope" => "https://media.giphy.com/media/6h4z4b3v6XWxO/giphy.gif",
     "colors" => "#003057,#4986AD,#C69214,#FFFFFF,#4986AD,#FFFFFF,#509E2F,#862633",
-    "git" => "https://github.com/wgu-it/sage-bot",
+    "git" => "https://github.com/WGU-IT-Slack/sage-bot",
     "contributing" => "To help me get better you can *fork* https://github.com/wgu-it/sage-bot, *commit* your changes, and then make a *pull request*!",
     "googledrive" => "Repo with eBooks and More! Sign up with your @wgu.edu email address. https://drive.google.com/folderview?id=0B1S7OJNChk1-cWhwNWZTb2JNY1E",
     "linkedin" => "Connect with your fellow slackers. https://docs.google.com/document/d/1ajGLPZpWuxzDtEmWiVxvwxbwFRy0BcdPI0koaa_Zvc4/edit",
