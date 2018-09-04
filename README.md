@@ -17,7 +17,7 @@ Make sure you have [Elixir](https://elixir-lang.org/install.html) installed.
 
 New courses are added to WGU all the time, so if you want to help keep this bot up-to-date, please contribute!
 
-For very basic triggers, you can edit the [course-list](https://github.com/wgu-it/sage-bot/blob/master/lib/sage/support/course_list.ex). Observe and follow the existing format to add new courses.
+For very basic triggers, you can edit the [course-list](https://github.com/wgu-it-slack/sage-bot/blob/master/lib/sage/support/course_list.ex). Observe and follow the existing format to add new courses.
 
 ## Adding Responders
 
