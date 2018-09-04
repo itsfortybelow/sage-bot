@@ -1,6 +1,6 @@
 # Sage - Slack Bot - "Bubo"
 
-[![Build Status](https://travis-ci.org/wgu-it/sage-bot.svg?branch=master)](https://travis-ci.org/wgu-it/sage-bot)
+[![Build Status](https://travis-ci.com/WGU-IT-Slack/sage-bot.svg?branch=master)](https://travis-ci.com/WGU-IT-Slack/sage-bot)
 
 ## Development
 
