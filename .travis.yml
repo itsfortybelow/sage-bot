@@ -9,4 +9,3 @@ matrix:
 script: mix test --trace --color
 after_success:
     "curl $DEPLOYHOOK"
-    "printenv"
